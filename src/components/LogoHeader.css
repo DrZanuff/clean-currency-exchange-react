@@ -1,0 +1,23 @@
+.main-logo{
+    margin: auto;
+}
+
+.top{
+    position: absolute;
+    top: 0;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    justify-content: center;
+}
+
+.logo{
+    width: 110px;
+    height: 93px;
+    background-color: #181818;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}

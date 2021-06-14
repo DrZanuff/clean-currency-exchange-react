@@ -1,0 +1,16 @@
+h1{
+    color: white;
+    font-size: 24px;
+    line-height: 39px;
+    text-align: center;
+    font-family: Sarala;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+}
+
+hr{
+    width: 70%;
+    border-top: 1px;
+    opacity: .5;
+}
