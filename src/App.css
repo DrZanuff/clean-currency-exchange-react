@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Sarala;
+    src: url(fonts/Sarala/Sarala-Regular.ttf);
+}
+
 .im{
     background: url('images/image1.png') no-repeat center center fixed;
     background-size: cover;

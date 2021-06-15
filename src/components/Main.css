@@ -14,3 +14,26 @@ hr{
     border-top: 1px;
     opacity: .5;
 }
+
+.box{
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 17%;
+    height: 225px; 
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+
+.container{
+    min-height: 90.781px;
+}
+
+#row{
+    display: flex;
+}
